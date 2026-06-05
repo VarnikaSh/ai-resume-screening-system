@@ -26,5 +26,8 @@ A machine learning-based resume screening system built using Python, Scikit-Lear
  app.py skills.txt requirements.txt
 
  ## Live Demo
- [Click Here to Try the App](
+ [Click Here to Try the App](https://ai-resume-screening-system-rzeurhhbk9in7gsob6vd8j.streamlit.app/)
+
+ ## Author
+ Varnika Shukla
    
