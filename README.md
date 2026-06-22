@@ -1,7 +1,7 @@
 # AI Resume Screening System 
 
 ## Overview
-A machine learning-based resume screening system built using Python, Scikit-Learn, PyPDF2, and Streamlit. It evaluates candidate resumes against job descriptions, extracts matching skills, and provides an ATS compatibility score.
+A machine learning-based resume screening system built using Python, Scikit-Learn, PyPDF2, and Streamlit. It evaluates candidate resumes against job descriptions, extracts matching skills, and provides an ATS compatibility score
 
 ## Features
 * PDF Resume Parsing
